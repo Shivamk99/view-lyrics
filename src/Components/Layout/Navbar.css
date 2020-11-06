@@ -1,0 +1,27 @@
+body{ background-color: rgba(227, 238, 238, 0.897);}
+
+img{
+    height: 20%;
+    width: 20%;
+    margin: auto;
+    
+    
+}
+
+.navbar{
+    background: rgb(203,202,133);
+    background: linear-gradient(90deg, rgba(203,202,133,0.9948354341736695) 0%, rgba(253,29,48,1) 50%, rgba(252,176,69,1) 100%); 
+    padding: 0.5rem 35rem;
+    display: flex;
+    justify-content: center;
+    
+    
+    
+    
+}
+.navbar-brand{
+    font-family: 'Rye', cursive;
+    font-size: 22px;
+    text-shadow: 2px 0 0 #fff, -2px 0 0 #fff, 0 2px 0 #fff, 0 -2px 0 #fff, 1px 1px #fff, -1px -1px 0 #fff, 1px -1px 0 #fff, -1px 1px 0 #fff;      
+    
+}
