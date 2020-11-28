@@ -1,5 +1,7 @@
 ## [view_lyrics](http://view-lyrics.netlify.app)
-we can view lyrics of the song of a particular country by changing the the country code. I have used country code as us.
+
+_We can view lyrics of the song of a particular country by changing the the country code. I have used country code as ```us```_
+
 ![View Lyric](https://user-images.githubusercontent.com/50996696/98333928-ca9c8200-2027-11eb-8a5b-a1f9aa955d93.png)
 
 > About:
