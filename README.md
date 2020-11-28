@@ -13,16 +13,13 @@ Runs the app in the development mode.
 - [API](https://developer.musixmatch.com/).
 
 
-1. First list item
-   - First nested list item
-     - Second nested list item
-     
-1. Two Components I have used
-   _ Layout
-   _ Navbar
-   _ Spinner
-   _ Track
-   _ Lyrics
-   _ Search
-   _ Track
+1. **Two Components I have used:**
+   - Layout
+     - Navbar
+     - Spinner
+   - tracks
+     - Lyrics
+     - Search
+     - Track
+
 
