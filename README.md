@@ -14,10 +14,10 @@ Runs the app in the development mode.
 
 1. Two Components I have used
    _ Layout
-     _ Navbar
-     _ Spinner
+   _ Navbar
+   _ Spinner
    _ Track
-     _ Lyrics
-     _ Search
-     _ Track
+   _ Lyrics
+   _ Search
+   _ Track
 
