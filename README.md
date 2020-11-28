@@ -10,4 +10,14 @@ Runs the app in the development mode.
 
 - react-router-dom: react-router-dom is made for Web application which helps to navigate through a React application with multiple views.
 - axios: Axios is a Javascript library used to make HTTP requests from node.js or XMLHttpRequests from the browser and it supports the Promise API.
+- [API](https://developer.musixmatch.com/).
+
+1.Two Components I have used
+  _ Layout
+    _ Navbar
+    _ Spinner
+  _ Track
+    _ Lyrics
+    _ Search
+    _ Track
 
