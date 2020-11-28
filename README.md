@@ -8,6 +8,6 @@ Runs the app in the development mode.
 
 > Process:
 I have used
-     **react-router-dom:** react-router-dom is made for Web application which helps to navigate through a React application with multiple views.
-     **axios:** Axios is a Javascript library used to make HTTP requests from node.js or XMLHttpRequests from the browser and it supports the Promise API.
+     **1. react-router-dom:** react-router-dom is made for Web application which helps to navigate through a React application with multiple views.
+     **2. axios:** Axios is a Javascript library used to make HTTP requests from node.js or XMLHttpRequests from the browser and it supports the Promise API.
 
