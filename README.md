@@ -6,7 +6,7 @@ In the project directory, you can run:
 ### `npm start`
 Runs the app in the development mode.
 
-> Process:
+> About:
 
 - react-router-dom: react-router-dom is made for Web application which helps to navigate through a React application with multiple views.
 - axios: Axios is a Javascript library used to make HTTP requests from node.js or XMLHttpRequests from the browser and it supports the Promise API.
@@ -21,5 +21,6 @@ Runs the app in the development mode.
      - Lyrics
      - Search
      - Track
-
+2. **Context API:** _Useful for sharing data that can be considered global._
+3. **You can use it by cloning and then in your terminal install npm and run by ```npm install``` and ```npm start``` **
 
