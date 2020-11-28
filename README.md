@@ -22,5 +22,5 @@ Runs the app in the development mode.
      - Search
      - Track
 2. **Context API:** _Useful for sharing data that can be considered global._
-3. **You can use it by cloning and then in your terminal install npm and run by ```npm install``` and ```npm start``` **
+3. **You can use it by cloning and then in your terminal install npm and run by** ```npm install``` **and** ```npm start```
 
