@@ -7,5 +7,5 @@ In the project directory, you can run:
 Runs the app in the development mode.
 
 Process:
- #I have used +react-router-dom: react-router-dom is made for "Web application"
+```I have used react-router-dom: react-router-dom is made for "Web application" which helps to navigate through a React application with multiple views.```
 
