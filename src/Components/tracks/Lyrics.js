@@ -16,7 +16,7 @@ class Lyrics extends Component {
     componentDidMount () {
         axios
             .get(
-                 `http://cors-anywhere.herokuapp.com/http://api.musixmatch.com/ws/1.1/track.lyrics.get?track_id=${this.props.match.params.id}&apikey=${process.env.REACT_APP_KK_KEY}`
+                 `https://cors-anywhere.herokuapp.com/https://api.musixmatch.com/ws/1.1/track.lyrics.get?track_id=${this.props.match.params.id}&apikey=${process.env.REACT_APP_KK_KEY}`
             )
             .then(res => {
                 //console.log(res.data);
@@ -24,7 +24,7 @@ class Lyrics extends Component {
 
                 return axios
                 .get(
-                     `http://cors-anywhere.herokuapp.com/http://api.musixmatch.com/ws/1.1/track.get?track_id=${this.props.match.params.id}&apikey=${process.env.REACT_APP_KK_KEY}`
+                     `https://cors-anywhere.herokuapp.com/https://api.musixmatch.com/ws/1.1/track.get?track_id=${this.props.match.params.id}&apikey=${process.env.REACT_APP_KK_KEY}`
                 )
             })
             .then(res => {
