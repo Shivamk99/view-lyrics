@@ -14,7 +14,7 @@ class Search extends Component {
         e.preventdefault();
         axios
             .get(
-                 `http://cors-anywhere.herokuapp.com/https://api.musixmatch.com/ws/1.1/track.search?q_track=${this.state.tracktitle}&page_size=10&page=1&s_track_rating=desc&apikey=${process.env.REACT_APP_KK_KEY}`
+                 `https://cors-anywhere.herokuapp.com/https://api.musixmatch.com/ws/1.1/track.search?q_track=${this.state.tracktitle}&page_size=10&page=1&s_track_rating=desc&apikey=${process.env.REACT_APP_KK_KEY}`
             )
             .then(res => {
                 dispatch({
